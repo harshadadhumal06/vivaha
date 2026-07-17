@@ -84,3 +84,9 @@ Visitors can create an account with just their mobile number — `components/Aut
 - Respects `prefers-reduced-motion`.
 - Fully responsive from small mobile up through large desktop.
 - Images use `next/image` for automatic optimization.
+
+## Team Member
+- 1.Harshada Dhumal
+- 2.Nirjala Surve
+- 3.Lahu Rathod
+- 4.Tabish Qureshi

@@ -14,7 +14,7 @@ const stats = [
 const team = [
   {
     id: "team-priya-menon",
-    name: "Priya Menon",
+    name: "Harshada Dhumal",
     role: "Founder & Lead Planner",
     bio: "Sets the vision for every wedding and leads the couple relationship start to finish.",
     image:
@@ -22,7 +22,7 @@ const team = [
   },
   {
     id: "team-arjun-rao",
-    name: "Arjun Rao",
+    name: "Lahu Rathod",
     role: "Creative & Décor Director",
     bio: "Translates each couple's story into palette, florals, and every styled detail.",
     image:
@@ -30,7 +30,7 @@ const team = [
   },
   {
     id: "team-fatima-shaikh",
-    name: "Fatima Shaikh",
+    name: "Nirjala Surve",
     role: "Logistics & Vendor Relations",
     bio: "Runs venue bookings, vendor contracts, and the master timeline behind the scenes.",
     image:
@@ -38,7 +38,7 @@ const team = [
   },
   {
     id: "team-devika-nair",
-    name: "Devika Nair",
+    name: "Tabish Qureshi",
     role: "Client Experience Lead",
     bio: "Your first call and last text — keeps every couple calm from booking to send-off.",
     image:
