@@ -11,7 +11,7 @@ const stats = [
   { value: "100%", label: "Present on the Day" },
 ];
 
-/***const team = [
+const team = [
   {
     id: "team-priya-menon",
     name: "Harshada Dhumal",
@@ -44,7 +44,7 @@ const stats = [
     image:
       "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=800&auto=format&fit=crop",
   },
-];***/
+];
 
 export default function About() {
   return (
